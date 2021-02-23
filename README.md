@@ -1,6 +1,9 @@
 # ideias
 
 - Script para obter dados de dns (CNAME) em bulk, útil para subdomain takeover
+  - listar seviço de acordo com cname
+  - cloudfare mascara serviço
+  - referência takeover https://github.com/EdOverflow/can-i-take-over-xyz
 - mapa com informações históricas de radares móveis
   - daer atualiza informações a cada X semanas
   - https://github.com/felipecaon/daer-api

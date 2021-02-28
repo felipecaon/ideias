@@ -16,3 +16,6 @@
   - https://github.com/felipecaon/biogenetics
   - codons -> ???? -> base de dados
   - rosalind para infomrmações de banco
+- extensao para aumentar velocidade de áudio whatsapp
+  - 0.5x, 1x, 2x
+  - fazer um css decente no web.whatsapp

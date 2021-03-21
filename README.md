@@ -19,3 +19,7 @@
 - <del>extensao para aumentar velocidade de áudio whatsapp</del> (https://github.com/felipecaon/tfuf)
   - 0.5x, 1x, 2x
   - fazer um css decente no web.whatsapp
+- leitor RSS de noticias e categorizador por ação
+  - agenciabrasil, folha, brinvesting, infomoney
+- build your own crypto
+
